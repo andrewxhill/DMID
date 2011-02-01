@@ -1,0 +1,220 @@
+Country,ISO3,Bird Species
+Afghanistan,AFG,434
+Albania,ALB,303
+Algeria,DZA,372
+American Samoa,ASM,36
+Andorra,AND,119
+Angola,AGO,930
+Antigua and Barbuda,ATG,178
+Argentina,ARG,1038
+Armenia,ARM,302
+Aruba,ABW,88
+Australia,AUS,851
+Austria,AUT,412
+Azerbaijan,AZE,364
+Bahamas,BHS,316
+Bahrain,BHR,196
+Bangladesh,BGD,604
+Barbados,BRB,223
+Belarus,BLR,226
+Belgium,BEL,427
+Belize,BLZ,544
+Benin,BEN,485
+Bermuda,BMU,235
+Bhutan,BTN,625
+Bolivia,BOL,1414
+Bosnia and Herzegovina,BIH,312
+Botswana,BWA,570
+Brazil,BRA,1712
+British Virgin Islands,VGB,125
+Brunei Darussalam,BRN,455
+Bulgaria,BGR,379
+Burkina Faso,BFA,452
+Burundi,BDI,597
+Cambodia,KHM,521
+Cameroon,CMR,936
+Canada,CAN,472
+Cape Verde,CPV,160
+Cayman Islands,CYM,209
+Côte d'Ivoire,CIV,702
+Central African Rep,CAF,663
+Chad,TCD,531
+Chile,CHL,445
+China,CHN,1221
+Colombia,COL,1821
+Comoros,COM,138
+Congo,COG,597
+"Congo, Dem Rep",COD,1148
+Cook Islands,COK,35
+Costa Rica,CRI,838
+Croatia,HRV,365
+Cuba,CUB,358
+Cyprus,CYP,349
+Czech Rep,CZE,386
+Denmark,DNK,427
+Djibouti,DJI,312
+Dominica,DMA,164
+Dominican Rep,DOM,224
+Ecuador,ECU,1515
+Egypt,EGY,481
+El Salvador,SLV,434
+Equatorial Guinea,GNQ,418
+Eritrea,ERI,537
+Estonia,EST,267
+Ethiopia,ETH,839
+Faeroe Islands,FRO,251
+Falkland Islands,FLK,203
+Fiji,FJI,112
+Finland,FIN,421
+France,FRA,517
+French Guiana,GUF,644
+French Polynesia,PYF,116
+Gabon,GAB,632
+Gambia,GMB,535
+Georgia,GEO,268
+Germany,DEU,487
+Ghana,GHA,729
+Gibraltar,GIB,270
+Greece,GRC,412
+Greenland,GRL,133
+Grenada,GRD,148
+Guadeloupe,GLP,189
+Guam,GUM,61
+Guatemala,GTM,684
+Guinea,GIN,640
+Guinea-Bissau,GNB,459
+Guyana,GUY,786
+Haiti,HTI,271
+Honduras,HND,699
+Hong Kong,HKG,306
+Hungary,HUN,367
+Iceland,ISL,305
+India,IND,1180
+Indonesia,IDN,1604
+"Iran, Islamic Rep",IRN,498
+Iraq,IRQ,396
+Ireland,IRL,408
+Israel,ISR,534
+Italy,ITA,478
+Jamaica,JAM,298
+Japan,JPN,592
+Jordan,JOR,397
+Kazakhstan,KAZ,497
+Kenya,KEN,1103
+Kiribati,KIR,50
+"Korea, Dem People's Rep",PRK,369
+"Korea, Rep",KOR,423
+Kuwait,KWT,358
+Kyrgyzstan,KGZ,207
+Lao People's Dem Rep,LAO,704
+Latvia,LVA,325
+Lebanon,LBN,377
+Lesotho,LSO,311
+Liberia,LBR,576
+Libyan Arab Jamahiriya,LBY,326
+Liechtenstein,LIE,241
+Lithuania,LTU,227
+Luxembourg,LUX,284
+Macau,MAC,56
+"Macedonia, FYR",MKD,291
+Madagascar,MDG,262
+Malawi,MWI,658
+Malaysia,MYS,746
+Maldives,MDV,166
+Mali,MLI,624
+Malta,MLT,357
+Marshall Islands,MHL,57
+Martinique,MTQ,168
+Mauritania,MRT,521
+Mauritius,MUS,137
+Mexico,MEX,1026
+"Micronesia, Fed States",FSM,97
+"Moldova, Rep",MDA,203
+Monaco,MCO,12
+Mongolia,MNG,387
+Morocco,MAR,430
+Mozambique,MOZ,685
+Myanmar,MMR,1047
+Namibia,NAM,619
+Nauru,NRU,13
+Nepal,NPL,864
+Netherlands,NLD,444
+Netherlands Antilles,ANT,259
+New Caledonia,NCL,150
+New Zealand,NZL,351
+Nicaragua,NIC,632
+Niger,NER,493
+Nigeria,NGA,899
+Niue,NIU,21
+Northern Mariana Islands,MNP,93
+Norway,NOR,442
+Oman,OMN,483
+Pakistan,PAK,625
+Palau,PLW,112
+Panama,PAN,904
+Papua New Guinea,PNG,720
+Paraguay,PRY,696
+Peru,PER,1781
+Philippines,PHL,590
+Poland,POL,424
+Portugal,PRT,501
+Puerto Rico,PRI,310
+Qatar,QAT,151
+Réunion,REU,73
+Romania,ROU,365
+Russian Federation,RUS,645
+Rwanda,RWA,665
+Saint Helena,SHN,128
+Saint Kitts and Nevis,KNA,132
+Saint Pierre and Miquelon,SPM,308
+Samoa,WSM,49
+San Marino,SMR,6
+Sao Tome & Principe,STP,112
+Saudi Arabia,SAU,433
+Senegal,SEN,612
+Serbia and Montenegro,YUG,381
+Seychelles,SYC,238
+Sierra Leone,SLE,626
+Singapore,SGP,400
+Slovakia,SVK,332
+Slovenia,SVN,350
+Solomon Islands,SLB,248
+Somalia,SOM,642
+South Africa,ZAF,829
+Spain,ESP,515
+Sri Lanka,LKA,381
+St. Lucia,LCA,162
+St. Vincent & Grenadines,VCT,153
+Sudan,SDN,952
+Suriname,SUR,674
+Swaziland,SWZ,490
+Sweden,SWE,457
+Switzerland,CHE,382
+Syrian Arab Rep,SYR,350
+Taiwan,TWN,392
+Tajikistan,TJK,351
+Tanzania,TZA,1056
+Thailand,THA,971
+Timor-Leste,TMP,1
+Togo,TGO,565
+Tonga,TON,46
+Trinidad and Tobago,TTO,435
+Tunisia,TUN,360
+Turkey,TUR,436
+Turkmenistan,TKM,318
+Turks and Caicos Islands,TCA,186
+Uganda,UGA,1015
+Ukraine,UKR,325
+United Arab Emirates,ARE,268
+United Kingdom,GBR,557
+United States,USA,888
+Uruguay,URY,414
+Uzbekistan,UZB,343
+Vanuatu,VUT,108
+Venezuela,VEN,1392
+Viet Nam,VNM,837
+Virgin Islands,VIR,223
+Western Sahara,,163
+Yemen,YEM,385
+Zambia,ZMB,770
+Zimbabwe,ZWE,661
